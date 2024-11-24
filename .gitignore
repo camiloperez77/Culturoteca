@@ -20,3 +20,8 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+/.idea/.gitignore
+/.idea/Culturoteca.iml
+/.idea/material_theme_project_new.xml
+/.idea/misc.xml
+/.idea/modules.xml
